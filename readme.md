@@ -1,7 +1,7 @@
 ## Olá, eu sou Degemar Pereira!
 
 ### Histórico do GitHub
-[![Degemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=degemarps)](https://github.com/degemarps/github-readme-stats)
+[![Degemar's GitHub stats](https://github-readme-stats.vercel.app/api?username=degemarps&theme=dark)](https://github.com/degemarps/github-readme-stats)
 
 ### Linguagens mais Utilizadas
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=degemarps&layout=compact&theme=dark)](https://github.com/degemarps/github-readme-stats) 
