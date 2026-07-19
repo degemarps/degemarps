@@ -8,7 +8,7 @@ QA Engineer | Test Automation | Software Quality | CI/CD
 
 ## 👨‍💻 About Me
 
-I'm a QA Engineer with 3+ years of experience helping teams deliver reliable, scalable, and high-quality software.
+I'm a QA Engineer with 4+ years of experience helping teams deliver reliable, scalable, and high-quality software.
 
 I have experience with:
 
@@ -64,10 +64,6 @@ I'm passionate about building quality into the development process rather than s
 ---
 
 ## 📊 GitHub Statistics
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degemarps&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=degemarps&theme=github_dark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=degemarps&theme=github_dark)
 
