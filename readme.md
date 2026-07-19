@@ -63,19 +63,13 @@ I'm passionate about building quality into the development process rather than s
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
-<p align="center">
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=degemarps&theme=github_dark)
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=degemarps&show_icons=true&theme=github_dark&hide_border=true"/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=degemarps&theme=github_dark)
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=degemarps&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=degemarps&theme=github_dark)
 
 ---
 
